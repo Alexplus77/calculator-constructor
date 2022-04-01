@@ -1,0 +1,28 @@
+body{
+  display: grid;
+  justify-items: center;
+
+  left: 0;
+  bottom: 0;
+}
+
+.wrapper{
+  display: grid;
+  grid-template-columns: repeat(2, 200px);
+  gap: 20px;
+}
+.title{
+
+}
+.constructor-page{
+  display: grid;
+  margin-top: 50px;
+  justify-items: center;
+  align-items: center;
+  width: fit-content;
+  gap: 20px;
+  padding: 20px;
+  height: fit-content;
+  background-color: #d1d0ce;
+  border-radius: 5px;
+}

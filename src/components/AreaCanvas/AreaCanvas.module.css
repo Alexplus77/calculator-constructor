@@ -1,0 +1,15 @@
+.containerCanvas{
+    display: grid;
+    gap: 10px;
+    background-color: white;
+    justify-items: center;
+    padding: 20px;
+    border: 2px black dashed;
+    border-radius: 5px;
+}
+.canvasText{
+    align-self: center;
+    justify-self: center;
+    display: grid;
+    text-align: center;
+}
